@@ -53,10 +53,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 6. No YAML syntax
 
----
-
 ### Bitbucket Pipelines
-
 
 **- Pros**
 
@@ -78,10 +75,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 2. Pricing is based on amount of users for both the cloud and on premise versions.
 
----
-
 ### GitHub Actions
-
 
 **- Pros**
 
