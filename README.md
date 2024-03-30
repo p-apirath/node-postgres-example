@@ -1,5 +1,5 @@
 
-# Note for nodejs-postgres-example
+## Note for nodejs-postgres-example
 
 
 ```sh
@@ -17,11 +17,11 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 ---
 
-# Pros and Cons: Jenkins vs Bitbucket Pipelines vs GitHub Actions
+## Pros and Cons: Jenkins vs Bitbucket Pipelines vs GitHub Actions
 
 ### Jenkins
 
-**Pros**
+**- Pros**
 
 1. Hosted internally
 
@@ -39,7 +39,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 8. Great flexibility
 
-**Cons**
+**- Cons**
 
 1. Workarounds needed for basic requirements
 
@@ -58,7 +58,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 ### Bitbucket Pipelines
 
 
-**Pros**
+**- Pros**
 
 1. Hosted internally
 
@@ -72,7 +72,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 6. Auditing
 
-**Cons**
+**- Cons**
 
 1. Small Community
 
@@ -83,7 +83,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 ### GitHub Actions
 
 
-**Pros**
+**- Pros**
 
 1. Integration with GitHub
 
@@ -99,7 +99,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 7. Largest Community
 
-**Cons**
+**- Cons**
 
 1. Lacking allow failure
 
