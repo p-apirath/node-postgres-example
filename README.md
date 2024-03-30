@@ -1,7 +1,6 @@
 
-## Note for nodejs-postgres-example
+# Note for nodejs-postgres-example
 
----
 
 ```sh
 
@@ -18,11 +17,9 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 ---
 
-## Pros and Cons: Jenkins vs Bitbucket Pipelines vs GitHub Actions
+# Pros and Cons: Jenkins vs Bitbucket Pipelines vs GitHub Actions
 
----
-
-#### Jenkins
+### Jenkins
 
 **Pros**
 
@@ -58,7 +55,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 ---
 
-## Bitbucket Pipelines
+### Bitbucket Pipelines
 
 
 **Pros**
@@ -83,7 +80,7 @@ docker-compose up -d && docker-compose logs -f ; docker-compose down -v --rmi al
 
 ---
 
-## GitHub Actions
+### GitHub Actions
 
 
 **Pros**
